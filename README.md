@@ -49,7 +49,7 @@ nohup ./xwbszoom server
 1. 登录并配置你的 AList 账号。如果你之前配置过且备份过，可以直接恢复备份。
 2. 参考 [这个文档](https://alist.nn.ci/zh/guide/drivers/baidu.html) 或 [这个视频教程](https://www.bilibili.com/video/BV1mo4y1N7EP/?spm_id_from=333.337.search-card.all.click&vd_source=65472ca49ce7bbc88f03080e0cb89281) 来完成配置。
 
-**注意：** 配置中涉及到 Cookie 的获取和格式转换，你可以使用 [Cookie Editor 插件](https://microsoftedge.microsoft.com/addons/detail/ajfboaconbpkglpfanbmlfgojgndmhmc) 来获取并转换 Cookie 格式。(下载transjson.py运行即可看到格式转换页面)
+**注意：** 配置中涉及到 Cookie 的获取和格式转换，你可以使用 [Cookie Editor 插件](https://microsoftedge.microsoft.com/addons/detail/ajfboaconbpkglpfanbmlfgojgndmhmc) Export获取 Cookie 格式,下载transjson.py运行即可看到格式转换页面
 
 ### 7. 项目保活
 

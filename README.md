@@ -15,7 +15,7 @@
 
 ### 3. 解压 Tar 文件
 
-在 Replit 的终端输入以下命令并按回车键解压文件：
+在 Replit 的终端shell输入以下命令并按回车键解压文件：
 
 ```bash
 tar -xvf XWG.tar
